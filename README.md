@@ -1,6 +1,6 @@
 # Welcome to Our Open-Source Data Intelligence!
 
-![Data Analytics Graphic](https://media.bizj.us/view/img/11587050/1-17-smithpracticaldataapplicationspicpa*1200xx6392-3596-0-318.jpg)
+![New Graphic Design (1)](https://user-images.githubusercontent.com/117761976/217725855-27decd54-bb4e-4112-81ee-6151338265e4.jpg)
 
 Are you interested in data intelligence and analytics? Join our community of data enthusiasts, where you can contribute to and benefit from our data analysis.
 
