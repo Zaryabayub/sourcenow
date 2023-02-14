@@ -11,3 +11,17 @@ The Following links relates to the research being done on salary ranges.
 * [Godigit](https://www.godigit.com/finance/salary/what-is-basic-salary)
 
 
+### Base Salary And Total Compensation
+#### Google
+source link: https://qr.ae/prgWnI
+
+With 10 years exp, you ideally join at L5 tho if you did not perform well, they might admit you at L4.
+
+If L4, you will be close to 80% salary, 11% bonus, 9% RSU.
+If L5, it will be around 75% salary, 10% bonus and 15% RSU.
+
+#### Govt of Pakistan
+source link: https://www.finance.gov.pk/circulars/circular_14072017.pdf
+![image](https://user-images.githubusercontent.com/117761976/218708499-1f597f4f-60e4-411c-b3d3-3a43f22c6fb2.png)
+
+
